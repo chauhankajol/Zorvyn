@@ -1,5 +1,5 @@
 import React from 'react'
-import Summarycard from '../dashboard/summarycard'
+import Summarycard from '../dashboard/Summarycard'
 import Balancechart from '../dashboard/Balancechart'
 import SpendingChart from '../dashboard/SpendingChart'
 
